@@ -1,0 +1,9 @@
+<html>
+<head>
+	<title>Addition</title>
+</head>
+
+<body>
+	This is an addition method.
+</body>
+</html>
